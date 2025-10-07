@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">循環動態桌布</string>
+    <string name="title">選擇影片並設定為動態桌布</string>
+    <string name="select_video">選擇影片</string>
+    <string name="set_wallpaper">設定為動態桌布</string>
+    <string name="wallpaper_description">播放自訂影片的動態桌布</string>
+    <string name="video_not_selected">請先選擇影片</string>
+    <string name="video_ready">已載入影片，可開始預覽</string>
+    <string name="video_set_instructions">系統會開啟桌布設定畫面，請選擇「設定桌布」完成</string>
+    <string name="video_persist_error">無法儲存影片，請再試一次</string>
+</resources>
